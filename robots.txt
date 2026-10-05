@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://braxtonhutch12.github.io/ai-toolbox/sitemap.xml
